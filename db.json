@@ -10,16 +10,24 @@
     {
       "projectId": 2,
       "image": "https://resto0.netlify.app/tobacco-whole-chicken-plate-with-herbs-tomato-black-background-top-view-copy-space_89816-38991.avif",
-      "title": "Food Website",
-      "description": "Food Website using Html CSS and JavaScript",
+      "title": "Cricket Score Counter",
+      "description": "Cricket Score Counter using Rect JS and Tailwind CSS",
       "url": "https://resto0.netlify.app/"
     },
     {
       "projectId": 3,
+      "image": "https://drive.google.com/file/d/1OxTX7M39RCJHbVu3mlS9_7GMNQ4JSU3C/view?usp=sharing",
+      "title": "Todo App",
+      "description": "Fully Functional Todo App using React JS",
+      "url": "https://todo0-list.netlify.app/"
+    },
+    {
+      "projectId": 4,
       "image": "https://resto0.netlify.app/tobacco-whole-chicken-plate-with-herbs-tomato-black-background-top-view-copy-space_89816-38991.avif",
-      "title": "Cricket Score Counter",
-      "description": "Cricket Score Counter",
+      "title": "Food Website",
+      "description": "Food Website using Html CSS and JavaScript",
       "url": "https://resto0.netlify.app/"
     }
+    
   ]
 }
