@@ -9,10 +9,10 @@
     },
     {
       "projectId": 2,
-      "image": "https://resto0.netlify.app/tobacco-whole-chicken-plate-with-herbs-tomato-black-background-top-view-copy-space_89816-38991.avif",
+      "image": "https://t3.ftcdn.net/jpg/06/59/60/16/360_F_659601641_dms0A1wuIBjQwsGFZpiLpzBQRpyG59nY.jpg",
       "title": "Cricket Score Counter",
       "description": "Cricket Score Counter using Rect JS and Tailwind CSS",
-      "url": "https://resto0.netlify.app/"
+      "url": "https://cricket-score-counterr.netlify.app/"
     },
     {
       "projectId": 3,
@@ -42,6 +42,7 @@
       "description": "Food Website using Html CSS and JavaScript",
       "url": "https://resto0.netlify.app/"
     }
+  
     
   ]
 }
