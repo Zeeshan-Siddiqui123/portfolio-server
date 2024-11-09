@@ -22,6 +22,13 @@
       "url": "https://todo0-list.netlify.app/"
     },
     {
+      "projectId": 7,
+      "image": "https://preview.colorlib.com/theme/ezuca/images/hero-bg.jpg.webp",
+      "title": "Ezuca",
+      "description": "Ezuca Website Using react JS and Tailwind CSS",
+      "url": "https://ezucaa.netlify.app/"
+    },
+    {
       "projectId": 4,
       "image": "https://resto0.netlify.app/tobacco-whole-chicken-plate-with-herbs-tomato-black-background-top-view-copy-space_89816-38991.avif",
       "title": "Food Website",
@@ -39,10 +46,8 @@
       "projectId": 6,
       "image": "https://mobirisee-music.netlify.app/ali%20zafar.jpg",
       "title": "Music Website",
-      "description": "Mobirise Music Website using Html and CSS",
+      "description": "Mobirise Music Website using Html and1 CSS",
       "url": "https://mobirisee-music.netlify.app/"
     }
-    
-    
   ]
 }
