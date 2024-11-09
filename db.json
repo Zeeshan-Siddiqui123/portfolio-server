@@ -48,6 +48,13 @@
       "title": "Music Website",
       "description": "Mobirise Music Website using Html and1 CSS",
       "url": "https://mobirisee-music.netlify.app/"
+    },
+    {
+      "projectId": 8,
+      "image": "https://amaazoon-clone.netlify.app/Amazon-Logo-White.png",
+      "title": "Amazon Clone",
+      "description": "Amazon Clone using Html and1 CSS",
+      "url": "https://amaazoon-clone.netlify.app/"
     }
   ]
 }
