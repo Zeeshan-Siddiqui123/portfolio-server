@@ -28,6 +28,13 @@
       "description": "Ezuca Website Using react JS and Tailwind CSS",
       "url": "https://ezucaa.netlify.app/"
     },
+     {
+      "projectId": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIq7B_YN4OIKabur442hTXl-VrG-z-6Hj_Rw&s",
+      "title": "CRUD Operation",
+      "description": "CRUD Operation Using React JS, Ant Design and Tailwind CSS",
+      "url": "https://crud-operatiion.netlify.app/"
+    },
     {
       "projectId": 4,
       "image": "https://resto0.netlify.app/tobacco-whole-chicken-plate-with-herbs-tomato-black-background-top-view-copy-space_89816-38991.avif",
