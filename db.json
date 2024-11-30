@@ -70,5 +70,14 @@
       "description": "W3 school Template catering website clone using Html and Css",
       "url": "https://hum-burger.netlify.app/"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/4ADC0C45-4908-4C81-BE28-946B38C4BF66-300x300.jpeg",
+      "title": "GLE-Class, Mercedes Benz",
+      "description": "Gle 350 model 2021 White",
+      "price": "15000"
+    }
   ]
 }
