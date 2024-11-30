@@ -78,6 +78,13 @@
       "title": "GLE-Class, Mercedes Benz",
       "description": "Gle 350 model 2021 White",
       "price": "15000"
+    },
+    {
+      "id": 2,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/PHOTO-2024-04-06-20-30-21-300x300.jpg",
+      "title": "BMW",
+      "description": "BMW X4 M Competition Model 2022",
+      "price": "13000"
     }
   ]
 }
