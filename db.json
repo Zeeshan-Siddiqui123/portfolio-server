@@ -85,6 +85,13 @@
       "title": "BMW",
       "description": "BMW X4 M Competition Model 2022",
       "price": "13000"
+    },
+    {
+      "id": 3,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/67A816E5-181E-4C99-897D-D629E440259E-300x300.jpeg",
+      "title": "AMG GT, Mercedes Benz",
+      "description": "Mercedes GT 53 Model 2021 Blue",
+      "price": "17000"
     }
   ]
 }
