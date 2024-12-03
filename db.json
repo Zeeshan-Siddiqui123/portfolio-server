@@ -92,6 +92,27 @@
       "title": "AMG GT, Mercedes Benz",
       "description": "Mercedes GT 53 Model 2021 Blue",
       "price": "17000"
+    },
+    {
+      "id": 4,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/C9997F07-9C45-4FB6-BB91-F4D873B257FC-300x300.jpeg",
+      "title": "AMG GT, Mercedes Benz",
+      "description": "Mercedes GT Model 2022",
+      "price": "16500"
+    },
+    {
+      "id": 5,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/39F159D5-0521-446A-A014-8FEA7EBAAC09-300x300.jpeg",
+      "title": "Grand Cherokee, Jeep",
+      "description": "Jeep Grand Cherokee Model 2022",
+      "price": "19000"
+    },
+    {
+      "id": 6,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/0bc053b-bd68-4f34-91a9-a74731aab7b6-300x300.jpg",
+      "title": "C-Class Sedan, Mercedes Benz",
+      "description": "Mercedes C300 convertible Model 202...",
+      "price": "17000"
     }
   ]
 }
