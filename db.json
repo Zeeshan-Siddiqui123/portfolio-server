@@ -134,6 +134,27 @@
       "title": "AMG GT, Mercedes Benz",
       "description": "Mercedes G63 model 2021",
       "price": "16000"
+    },
+    {
+      "id": 10,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/7B08E0C4-99D2-4EBA-B8DB-B74989EA6791-300x300.jpeg",
+      "title": "Lamborghini",
+      "description": "Lamborghini Urus yellow model 2021",
+      "price": "20000"
+    },
+    {
+      "id": 11,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/8D8EB99E-2D0F-4995-A547-C24BEA65D74C-300x300.jpg",
+      "title": "C-Class Sedan, Mercedes Benz",
+      "description": " Mercedes C300 convertible Model 2020",
+      "price": "17000"
+    },
+    {
+      "id": 12,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/92D5C0B5-899F-4DB0-9BC3-419192D20F89-300x300.jpg",
+      "title": "E-Class, Mercedes Benz",
+      "description": "Mercedes E450 convertible model 2019",
+      "price": "17000"
     }
   ]
 }
