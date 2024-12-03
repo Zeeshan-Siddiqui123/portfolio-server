@@ -114,5 +114,26 @@
       "description": "Mercedes C300 convertible Model",
       "price": "17000"
     }
+    {
+      "id": 7,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/972862e-6586-43a8-93c1-5a6e56d3bfbf-300x300.jpg",
+      "title": "Ford Mustang",
+      "description": "Ford Mustang GT model 2021",
+      "price": "17500"
+    },
+    {
+      "id": 8,
+      "image": "https://carentoae.com/wp-content/uploads/2024/08/51021091-E6A4-40AB-B217-B41548FF9844-300x300.jpg",
+      "title": "7 Series, BMW",
+      "description": "BMW 740i Model 2021",
+      "price": "18000"
+    },
+    {
+      "id": 9,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/8A109E68-3F6C-478A-9583-C47B3BF9A5F5-300x300.jpeg",
+      "title": "AMG GT, Mercedes Benz",
+      "description": "Mercedes G63 model 2021",
+      "price": "16000"
+    }
   ]
 }
