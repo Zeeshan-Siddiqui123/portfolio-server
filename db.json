@@ -170,5 +170,12 @@
       "description": "Mercedes E200 convertible model 2021",
       "price": 18500
     },
+    {
+      "id": 15,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/8D697FB1-1101-4891-B70D-B0DDF5BC223F-300x300.jpg",
+      "title": "Mercedes Benz, S-Class",
+      "description": "Mercedes S class 580 model 2021",
+      "price": 17500
+    },
   ]
 }
