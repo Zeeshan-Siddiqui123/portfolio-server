@@ -163,5 +163,12 @@
       "description": "BMW 420i convertible model 2021",
       "price": 18000
     },
+    {
+      "id": 14,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/5CC19EBF-BE73-459C-B38E-B1D972F9FF57-300x300.jpg",
+      "title": "E-Class, Mercedes Benz",
+      "description": "Mercedes E200 convertible model 2021",
+      "price": 18500
+    },
   ]
 }
