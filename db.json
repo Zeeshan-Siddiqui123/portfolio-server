@@ -186,10 +186,17 @@
     },
     {
       "id": 17,
-      "image": "https://carentoae.com/wp-content/uploads/2024/02/195AACA7-4E30-485A-AFBE-8FDAE0615ECB-300x300.jpg",
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/8D355055-D048-47D0-B7B7-03B9611B5B4D-300x300.jpeg",
       "title": "Mercedes Benz, S-Class",
       "description": "Mercedes S class 580 model 2022",
       "price": 18000
+    },
+    {
+      "id": 18,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/B87EA251-5C33-415A-A7A2-7D2766F14A67-300x300.jpg",
+      "title": "BMW",
+      "description": "BMW 530i Model 2023",
+      "price": 19000
     },
   ]
 }
