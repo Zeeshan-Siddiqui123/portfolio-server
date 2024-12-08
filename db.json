@@ -177,5 +177,12 @@
       "description": "Mercedes S class 580 model 2021",
       "price": 17500
     },
+    {
+      "id": 16,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/195AACA7-4E30-485A-AFBE-8FDAE0615ECB-300x300.jpg",
+      "title": "430i, BMW",
+      "description": "BMW 430i convertible model 2021",
+      "price": 18500
+    },
   ]
 }
