@@ -184,5 +184,12 @@
       "description": "BMW 430i convertible model 2021",
       "price": 18500
     },
+    {
+      "id": 17,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/195AACA7-4E30-485A-AFBE-8FDAE0615ECB-300x300.jpg",
+      "title": "Mercedes Benz, S-Class",
+      "description": "Mercedes S class 580 model 2022",
+      "price": 18000
+    },
   ]
 }
