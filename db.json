@@ -35,13 +35,6 @@
       "description": "CRUD Operation Using React JS, Ant Design and Tailwind CSS",
       "url": "https://crud-operatiion.netlify.app/"
     },
-     {
-      "projectId": 11,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIq7B_YN4OIKabur442hTXl-VrG-z-6Hj_Rw&s",
-      "title": "CRUD Operation",
-      "description": "CRUD Operation Using React JS, Ant Design and Tailwind CSS",
-      "url": "https://crud-operatiion.netlify.app/"
-    },
     {
       "projectId": 4,
       "image": "https://resto0.netlify.app/tobacco-whole-chicken-plate-with-herbs-tomato-black-background-top-view-copy-space_89816-38991.avif",
@@ -207,9 +200,16 @@
     },
     {
       "id": 19,
-      "image": "https://carentoae.com/wp-content/uploads/2024/02/B87EA251-5C33-415A-A7A2-7D2766F14A67-300x300.jpg",
-      "title": "BMW",
-      "description": "BMW 530i Model 2023",
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/569B8E3C-82A1-4ABD-921C-BAADB2806F4D-300x300.jpg",
+      "title": "A5,Audi",
+      "description": "Audi a5 convertible model 2022",
+      "price": 20000
+    },
+    {
+      "id": 20,
+      "image": "https://carentoae.com/wp-content/uploads/2024/02/44E55B3E-142B-459F-AAB6-042B7DF66C66-300x300.jpg",
+      "title": "E-Class, Mercedes Benz",
+      "description": "Mercedes E350 model 2021",
       "price": 20000
     }
   ]
